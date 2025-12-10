@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://vqceee.straw.page">Strawpage ! ˚⟡˖ ࣪</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://vqceee.straw.page">Strawpage ! ˚⟡˖ ࣪</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://vqceeee.atabook.org/">ATA ! ⋆˙⟡</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@Viceqizz">prns ! 𓂃۶ৎ </a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://colormytree.me/2025/01KC4QBD1PGBBRKZ7CVFE0WZC4">Tree !⋆｡˚ ˚⟡˖ ࣪</a>
