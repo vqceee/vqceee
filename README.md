@@ -7,6 +7,8 @@
   <a href="https://vqceeee.atabook.org/">ATA ! ⋆˙⟡</a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@Viceqizz">prns ! 𓂃۶ৎ </a> &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://colormytree.me/2025/01KC4QBD1PGBBRKZ7CVFE0WZC4">Tree !⋆｡˚ ˚⟡˖ ࣪</a>
+
+  ``md
 <!- visitor-badge: start ->
 ![README views](https://img.shields.io/badge/dynamic/json?label=README%20views&query=$.value&url=https://api.countapi.xyz/hit/vqceee/REPO&color=blue)
 <!-visitor-badge: end ->
